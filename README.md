@@ -1,7 +1,7 @@
 # Hi There, I am Leonardo 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-santos-9b9719238/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-santos-9b9719238/"></a>
+  <a href="https://www.linkedin.com/in/leonardo-santos-9b9719238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-santos-9b9719238/"></a>
   <a href="mailto:leogilberto2010@outlook.com"><img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:leogilberto2010@outlook.com"></a>
 </p>
 
