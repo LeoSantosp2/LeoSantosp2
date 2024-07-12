@@ -1,8 +1,9 @@
 # Hi There, I am Leonardo 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/leonardo-santos-9b9719238/)
-
-[![Outlook Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:leogilberto2010@outlook.com)](mailto:leogilberto2010@outlook.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonardo-santos-9b9719238/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-santos-9b9719238/"></a>
+  <a href="mailto:leogilberto2010@outlook.com"><img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:leogilberto2010@outlook.com"></a>
+</p>
 
 ## 🙋‍♂️ About Me
 I am a passionate developer with experience (non-professional) in Front-End and Back-End web development. Currently, I am looking for a professional opportunity to develop and improve my knowledge, fostering mutual growth between myself and the company.
