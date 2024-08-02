@@ -13,6 +13,7 @@ I am a passionate developer with experience (non-professional) in Front-End and 
 ## 🎓 Formation
 - **Analysis and Systems Development** - [Fam - Faculdade das Américas], 2021
 - **Programação com Python** - [Impacta], 2024
+- **JavaScript e TypeScript do Básico ao Avançado** - [Udemy], 2024
 
 ## 🚀 My Skills
 **Features and Languages:**
