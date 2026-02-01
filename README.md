@@ -31,7 +31,7 @@ I am a passionate developer with experience (non-professional) in Front-End and 
 ### Project 1: [Gerenciador de Senhas](https://leosantosp2.github.io/gerenciador-senhas-landing-page/)
 **Description:** A mobile app to the generate passwords.
 
-### Project 2: [Portfolio](https://leosantosp2.github.io/portifolio/)
+### Project 2: [Portfolio](https://portifolio-nu-navy-41.vercel.app/)
 **Description:** My portfolio with my projects, knowledge, formation and contact me.
 
 ## 📈 GitHub Stats
