@@ -28,7 +28,7 @@ I am a passionate developer with experience (non-professional) in Front-End and 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## 💼 Projects
-### Project 1: [Gerenciador de Senhas](https://leosantosp2.github.io/gerenciador-senhas-landing-page/)
+### Project 1: [Gerenciador de Senhas](https://gerenciadordesenhas.com.br/)
 **Description:** A mobile app to the generate passwords.
 
 ### Project 2: [Portfolio](https://leonardopaulo.com.br)
