@@ -6,7 +6,9 @@
 </p>
 
 ## 🙋‍♂️ About Me
-I am a passionate developer with experience (non-professional) in Front-End and Back-End web development. Currently, I am looking for a professional opportunity to develop and improve my knowledge, fostering mutual growth between myself and the company.
+I'm a Full-Stack Developer at the beginning of my career, focused on modern interfaces and efficient APIs using JavaScript, Node.js, React, and React Native. I learn quickly and independently — much of what I know today came from building projects from scratch and solving the problems that came up along the way.
+
+I enjoy turning ideas into solutions that actually work, with attention to best practices and clean, readable code.
 
 📫 How find me: **leogilberto2010@hotmail.com**
 
@@ -33,6 +35,9 @@ I am a passionate developer with experience (non-professional) in Front-End and 
 
 ### Project 2: [Portfolio](https://leonardopaulo.com.br)
 **Description:** My portfolio with my projects, knowledge, formation and contact me.
+
+### Project 3: [LS Editor](https://github.com/LeoSantosp2/ls-editor-app)
+**Description:** A markdown editor.
 
 ## 📈 GitHub Stats
 [![GitHub Stats for LeoSantosp2](https://github-readme-stats.vercel.app/api?username=LeoSantosp2&show_icons=true&theme=radical)](https://github.com/LeoSantosp2)
